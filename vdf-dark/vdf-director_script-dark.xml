@@ -39,7 +39,7 @@
             <WordsStyle name="COMMENTS" fgColor="7F9F7F" bgColor="FFFFFF" colorStyle="1" fontStyle="3" nesting="0" />
             <WordsStyle name="LINE COMMENTS" fgColor="7F9F7F" bgColor="FFFFFF" colorStyle="1" fontStyle="3" nesting="0" />
             <WordsStyle name="NUMBERS" fgColor="6AC8FF" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS1" fgColor="60BF62" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="FF5353" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="409FFF" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="7979FF" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="FFB366" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
