@@ -31,10 +31,12 @@ Download this repo and paste all <code>.xml</code> files from <code>vdf-light</c
 <img src="vdf-light\Img\cfg.jpg" width=500/>&nbsp;<img src="vdf-light\Img\qc.jpg" width=500/><br>
 <img src="vdf-light\Img\res.jpg" width=500/>&nbsp;<img src="vdf-light\Img\rules.jpg" width=500/><br>
 <img src="vdf-light\Img\smd.jpg" width=500/>&nbsp;<img src="vdf-light\Img\soundscape.jpg" width=500/><br>
-<img src="vdf-light\Img\vbsp.jpg" width=500/>&nbsp;<img src="vdf-light\Img\vmt.jpg" width=500/>
+<img src="vdf-light\Img\vbsp.jpg" width=500/>&nbsp;<img src="vdf-light\Img\vmt.jpg" width=500/><br>
+<img src="vdf-light\Img\fgd.png" width=500/>
 
 ## Dark theme
 <img src="vdf-dark\Img\cfg.png" width=500/>&nbsp;<img src="vdf-dark\Img\qc.png" width=500/><br>
 <img src="vdf-dark\Img\res.png" width=500/>&nbsp;<img src="vdf-dark\Img\rules.png" width=500/><br>
 <img src="vdf-dark\Img\smd.png" width=500/>&nbsp;<img src="vdf-dark\Img\soundscape.png" width=500/><br>
-<img src="vdf-dark\Img\vbsp.png" width=500/>&nbsp;<img src="vdf-dark\Img\vmt.png" width=500/>
+<img src="vdf-dark\Img\vbsp.png" width=500/>&nbsp;<img src="vdf-dark\Img\vmt.png" width=500/><br>
+<img src="vdf-dark\Img\fgd.png" width=500/>
